@@ -1,0 +1,1 @@
+from .models import fish, eel, shark, dolphin, whale

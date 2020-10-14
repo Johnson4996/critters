@@ -1,0 +1,1 @@
+from .models import horse, mule, goat, llama, donkey
